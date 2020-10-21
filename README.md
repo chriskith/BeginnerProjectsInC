@@ -1,2 +1,0 @@
-# BeginnerProjectsInC
-Practicing C++
