@@ -1,6 +1,9 @@
 /*TicTacToeGame written in C++*/
 //Test Commit part 4 FINAL
 
+//Merge conflict
+//Test git diff command
+
 #include <iostream>
 using namespace std;
 
