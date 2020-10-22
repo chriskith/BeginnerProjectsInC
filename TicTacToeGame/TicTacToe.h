@@ -6,6 +6,9 @@ Tic Tac Toe
 
 */
 
+#include "Cell.h"
+#include "Player.h"
+
 class TicTacToe {
 
 	//Public methods
