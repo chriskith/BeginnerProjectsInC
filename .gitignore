@@ -7,7 +7,7 @@
 *.o
 *.obj
 *.c
-*
+Test
 
 # Precompiled Headers
 *.gch
