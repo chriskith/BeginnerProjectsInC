@@ -1,8 +1,7 @@
 /*
 
-Seth Kith
-C++
-Tic Tac Toe
+	Seth Kith
+	TicTacToe.h declaration file
 
 */
 
@@ -13,9 +12,8 @@ class TicTacToe {
 
 	//Public methods
 	public:
-
 		game();
-				
+
 		int getPlayer1();
 		int getPlayer2();
 		int getCurrentPlayer();
@@ -30,7 +28,6 @@ class TicTacToe {
 
 	//Private variables and method	
 	private:
-
 		const int ROW = 3;
 		const int COL = 3;
 		const int player1;
